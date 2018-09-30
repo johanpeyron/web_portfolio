@@ -1,9 +1,9 @@
 // Menu Button
 .menu-btn {
   position: absolute;
-  top: 35px;
-  right: 35px;
   z-index: 3;
+  right: 35px;
+  top: 35px;
   cursor: pointer;
   @include easeOut;
 
@@ -11,7 +11,7 @@
     width: 28px;
     height: 3px;
     margin: 0 0 5px 0;
-    color: #fff;
+    background: set-text-color($primary-color);
     @include easeOut;
   }
 }
