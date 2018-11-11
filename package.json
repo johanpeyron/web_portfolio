@@ -9,6 +9,6 @@
   "author": "Johan Peyron",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.9.3"
+    "node-sass": "^4.10.0"
   }
 }
