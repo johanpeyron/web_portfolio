@@ -24,7 +24,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.8;
+  opacity: 0.9;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -258,6 +258,9 @@ main {
   background: #2b2b2b;
   color: #fff;
   height: 60px; }
+
+.about-list {
+  list-style: none; }
 
 @media screen and (min-width: 1171px) {
   .projects {
